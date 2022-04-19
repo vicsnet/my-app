@@ -1,0 +1,48 @@
+.summ{
+    text-transform: uppercase;
+    font-family: serif;
+    font-size: 20px;
+}
+.desc{
+    text-transform: capitalize;
+    margin-left: 15px;
+}
+.summary ul {
+    display: flex;
+}
+.summary li{
+    list-style: none;
+}
+.core ul{
+display: block;
+}
+.core li{
+    margin-left: 35px;
+    font-family: serif;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+.core lic{
+    display: block;
+}
+h2 {
+    font-family: tahoma;
+    color: lightblue;
+    margin-left: 35px;
+}
+.edu li{
+    list-style: none;
+    margin-left: 35px;
+}
+.fed{
+    font-family: serif;
+    text-transform: bold;
+}
+span{
+    color: red;
+}
+.met{
+    font-family: serif;
+    font-style: italic;
+    padding-left: 20px;
+}

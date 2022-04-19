@@ -1,0 +1,27 @@
+.Home{
+    background: skyblue;
+    color: white;
+    justify-content: center;
+
+}
+h1{
+    font-family: tahoma;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.address{
+    margin-top: -40px;
+    display: flex;
+    margin-left: 400px;
+    
+    
+}
+.address ul{
+    display: flex;
+    text-align: center;
+}
+.address li{
+    list-style: none;
+    margin: 10px;
+}
